@@ -17,7 +17,9 @@
 
 ## 下载
 
-前往 [Releases](<此处填你的仓库 Releases 页面链接>) 下载最新版 APK,直接安装即可。
+前往 [GitHub Releases](https://github.com/1-20182/music-app-release/releases) 下载最新版 APK,直接安装即可。
+
+> **国内用户镜像**：GitHub 访问不便时,可前往 [GitCode 发行仓库](https://gitcode.com/c3317812824/music-app-release/releases) 下载,已同步 v1.0.0 / v1.5.0 / v1.7.5 / v1.9.4 全部正式发行版本。
 
 > Debug 版使用固定签名,可与历史版本覆盖安装,无需卸载数据。
 
