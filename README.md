@@ -43,7 +43,7 @@
 
 ## 反馈
 
-使用中遇到问题或想提新功能建议,请在 [Issues](<此处填你的仓库 Issues 页面链接>) 提交,附上设备型号、Android 版本、复现步骤与日志(如有)。
+使用中遇到问题或想提新功能建议,请在 [Issues](https://github.com/1-20182/music-app-release/issues) 提交,附上设备型号、Android 版本、复现步骤与日志(如有)。
 
 ## 说明
 
